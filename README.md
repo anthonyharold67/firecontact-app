@@ -30,6 +30,6 @@ SOLUTION
 
 ## Objective
 
-Build a Movie App using ReactJS.
+Build a Fire Contact App using ReactJS.
 ### !Note:
 <p>Keys were used by creating a .env .When you download or clone the repository, you need to enter the .env and type your own passwords in the appropriate places</p>
